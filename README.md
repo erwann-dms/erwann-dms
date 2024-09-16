@@ -6,9 +6,9 @@ Student in cyber...
 
 class Personne: 
 def \_\_init\_\_(self, name, age, school): 
-self.name = Erwann 
-self.age = 17 
-self.school = I know
+  self.name = Erwann 
+  self.age = 17 
+  self.school = I know
 
 * 🌍  I'm based in France
 * ✉️  You can contact me at [erwann1.dumas@outlook.fr](mailto:erwann1.dumas@outlook.fr)
