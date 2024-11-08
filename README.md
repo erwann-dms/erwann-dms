@@ -10,12 +10,12 @@ def \_\_init\_\_(self, name, age, school):
 
 self.name = Erwann 
 
-self.age = 17 
+self.age = 18 
 
 self.school = I know
 
 *   🌍  I'm based in France
-*   ✉️  You can contact me at [erwann1.dumas@outlook.fr](mailto:edumas@guardiaschool.fr)
+*   ✉️  You can contact me at [edumas@guardiaschool.fr](mailto:edumas@guardiaschool.fr)
 *   🧠  I'm learning cyber security
 *   🤝  I'm open to collaborating on new know l'Edge
 *   ⚡  I'm always playing with DATAS
