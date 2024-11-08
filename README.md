@@ -15,7 +15,7 @@ self.age = 17
 self.school = I know
 
 *   🌍  I'm based in France
-*   ✉️  You can contact me at [erwann1.dumas@outlook.fr](mailto:erwann1.dumas@outlook.fr)
+*   ✉️  You can contact me at [erwann1.dumas@outlook.fr](mailto:edumas@guardiaschool.fr)
 *   🧠  I'm learning cyber security
 *   🤝  I'm open to collaborating on new know l'Edge
 *   ⚡  I'm always playing with DATAS
