@@ -30,13 +30,13 @@ class Personne:
 <h3 align="center">Currently building my knowledge on digital</h3>
 <table>
   <tr>
-    <img style="border-radius: 5px" align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=erwann-dms&theme=high-contrast&line=9745f5&title_color=9745f5">
+    <img style="border-radius: 5px" align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=erwann-dms&theme=high-contrast&line=9745f5&title_color=9745f5"/>
   <tr>
     <td>
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=erwann-dms&count_private=true&show_icons=true&theme=midnight-purple&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage">
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=erwann-dms&count_private=true&show_icons=true&theme=midnight-purple&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage"/>
     </td>
     <td>
-      <img align="center" src="https://streak-stats.demolab.com?user=erwann-dms&theme=midnight-purple">
+      <img align="center" src="https://streak-stats.demolab.com?user=erwann-dms&theme=midnight-purple" alt="GitHub Streak"/>
     </td>
   </tr>
   <tr>
@@ -52,7 +52,7 @@ class Personne:
 
 <h2 align="center">Skills</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=arch,bash,c,git,github,html,css,js,kali,linux,md,mongodb,mysql,neovim,nodejs,powershell,py,regex,vscode&perline=19">
+  <img src="https://skillicons.dev/icons?i=arch,bash,c,git,github,html,css,js,kali,linux,md,mongodb,mysql,neovim,nodejs,powershell,py,regex,vscode&perline=19"/>
 </p>
 
 <h2 align="center">Socials</h2>
