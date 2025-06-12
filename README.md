@@ -26,7 +26,7 @@ class Personne:
     </ul>
 <br>
 <p align="center">
-<h1 align="center">💻 Student in cyber 💻</h1>
+<h1 align="center">💻 Student in cyber security 💻</h1>
 <h3 align="center">Currently building my knowledge on digital</h3>
 <table>
   <tr>
