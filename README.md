@@ -18,11 +18,11 @@ class Personne:
       <br>
         ✉️ You can contact me at <a href="mailto:edumas@guardiaschool.fr">edumas@guardiaschool.fr</a>
       <br>
-        🧠 I'm learning cyber security
+        🧠 I'm currently learning cyber security
       <br>
-        🤝 I'm open to collaborating on new know l'Edge
+        🤝 I'm open to collaborat on new know l'Edge
       <br>
-        ⚡ I'm always playing with DATAS
+        ⚡ I'm always playing with DATA
     </ul>
 <br>
 <p align="center">
